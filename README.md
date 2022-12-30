@@ -1,7 +1,7 @@
 
 ![logo](https://www.mo.agency/hubfs/So%20you%20want%20to%20be%20a%20web%20developer.png)
 <h1 align="center">Hi 👋, I'm Akash Fulari</h1>
-<img  align="right" width="340" height="250" src="https://www.lambdatest.com/resources/images/news24.gif">
+<img  align="right" width="240" height="200" src="https://www.lambdatest.com/resources/images/news24.gif">
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <p align="left"> 
