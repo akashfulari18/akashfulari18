@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React and Redux**
 
-- 👨‍💻 All of my projects are available at [akashfulari18.github.io](akashfulari18.github.io)
+- 👨‍💻 All of my projects are available at [akashfulari18.github.io](https://akashfulari18.github.io/)
 
 - 💬 Ask me about **React , JavaScript and CSS**
 
