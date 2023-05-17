@@ -9,7 +9,7 @@
 
 
 
-- 🌱 I’m comfortable working with **React , Redux and Node **
+- 🌱 I’m comfortable working with React , Redux and Node 
 
 - 👨‍💻 All of my projects are available at [akashfulari18.github.io](https://akashfulari18.github.io/)
 
