@@ -24,7 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/akash-fulari-b57848190" target="_blank"><img align="center" src="[[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Github-circle_%28CoreUI_Icons_v1.0.0%29.svg/2048px-Github-circle_%28CoreUI_Icons_v1.0.0%29.svg.png)" alt="akash fulari" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/akash-fulari-b57848190" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Github-circle_%28CoreUI_Icons_v1.0.0%29.svg/2048px-Github-circle_%28CoreUI_Icons_v1.0.0%29.svg.png" alt="akash fulari" height="30" width="40" /></a>
 <a href="[https://www.hackerrank.com/akashfulari007](https://www.hackerrank.com/akashfulari007)" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akashfulari007" height="30" width="40" /></a>
 </p>
 
