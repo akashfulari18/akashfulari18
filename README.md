@@ -9,7 +9,7 @@
 
 
 
-- 🌱 I’m currently learning **React and Redux**
+- 🌱 I’m comfortable with **React , Redux and Node **
 
 - 👨‍💻 All of my projects are available at [akashfulari18.github.io](https://akashfulari18.github.io/)
 
