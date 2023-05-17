@@ -20,7 +20,7 @@
 - 📄 Know about my experiences:<a href="https://drive.google.com/file/d/1xaMuGhFWKyH24monpvWCGU3Kc16e2Kai/view?usp=share_link" target="_blank">Click here</a>
                                                                                                                                  
 
-- ⚡ Fun fact **Being funny is not fun...!**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
