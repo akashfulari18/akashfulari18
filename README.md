@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **fulariakash007@gmail.com**
 
-- 📄 Know about my experiences:<a href="https://drive.google.com/file/d/1xaMuGhFWKyH24monpvWCGU3Kc16e2Kai/view?usp=share_link">Resume</a>
+- 📄 Know about my experiences:<a href="https://drive.google.com/file/d/1xaMuGhFWKyH24monpvWCGU3Kc16e2Kai/view?usp=share_link" target="_blank">Resume</a>
                                                                                                                                  
 
 - ⚡ Fun fact **Being funny is not fun...!**
