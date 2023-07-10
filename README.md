@@ -11,7 +11,7 @@
 
 - 🌱 I’m comfortable working with **React , Redux and Node** 
 
-- 🌱 I’m currently learning  **Next ,Mobx state Tree** and exploring **TypeScript** 
+- 🌱 I’m currently learning  **NextJS ,Mobx state Tree** and exploring **TypeScript** 
 
 - 👨‍💻 All of my projects are available at [akashfulari18.github.io](https://akashfulari18.github.io/)
 
